@@ -1,0 +1,10 @@
+vlan 10
+ name HR
+vlan 20
+ name IT
+vlan 30
+ name FINANCE
+vlan 40
+ name GUEST
+vlan 99
+ name MGMT
